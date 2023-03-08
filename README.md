@@ -9,6 +9,6 @@ The three channels ADC are used to measure voltage, current and the potentiomete
 Some of the changes on the PCB should be added because I needed to measure nagative voltages for my power supply.
 
 ## Schematic
-The PCB is created in KiKad
+PCB is created using KiKad software
 ![](./photo/schematic.png)
 ![](./photo/pcb.png)
